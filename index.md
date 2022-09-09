@@ -1,6 +1,6 @@
 ---
-title: Bulma Clean Theme
-subtitle: This is the demo site for Bulma Clean Theme
+title: Computer Life Support
+subtitle: Call 1-876-560-0735 Open 24 hours
 layout: page
 callouts: home_callouts
 show_sidebar: true
