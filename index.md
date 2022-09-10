@@ -3,6 +3,7 @@ title: Computer Life Support
 hero_link: /my-page/
 hero_link_text: Call 1-876-560-0735
 hero_image: https://media-exp1.licdn.com/dms/image/C4E16AQHf4iNYqI31BQ/profile-displaybackgroundimage-shrink_200_800/0/1649706115556?e=1668038400&v=beta&t=b7OC4SozXSVyl-Z1uJUh2hQsTd1VTbbNIh1E_N0HOts
+hero_darken: true
 subtitle: Open 24 hours
 layout: page
 callouts: home_callouts
