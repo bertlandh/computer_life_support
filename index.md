@@ -1,6 +1,6 @@
 ---
 title: Computer Life Support
-hero_image: /img/1649706115556.jpg
+hero_image: https://media-exp1.licdn.com/dms/image/C4E16AQHf4iNYqI31BQ/profile-displaybackgroundimage-shrink_200_800/0/1649706115556?e=1668038400&v=beta&t=b7OC4SozXSVyl-Z1uJUh2hQsTd1VTbbNIh1E_N0HOts
 subtitle: Call 1-876-560-0735 Open 24 hours
 layout: page
 callouts: home_callouts
