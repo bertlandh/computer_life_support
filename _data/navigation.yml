@@ -1,6 +1,6 @@
-- name: Docs
-  link: /docs/
-- name: Example Pages
+- name: About
+  link: /about/
+- name: Projects
   link: /#
   dropdown:
     - name: Landing Page With Callouts
@@ -16,4 +16,10 @@
     - name: Showcase
       link: /showcase/
 - name: News
+  link: /blog/
+- name: Gallery
+  link: /blog/
+- name: CV
+  link: /blog/
+- name: Connect
   link: /blog/
