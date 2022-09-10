@@ -1,6 +1,6 @@
 ---
 title: Computer Life Support
-hero_image: /path/to/image.jpg
+hero_image: /img/1649706115556.jpg
 subtitle: Call 1-876-560-0735 Open 24 hours
 layout: page
 callouts: home_callouts
