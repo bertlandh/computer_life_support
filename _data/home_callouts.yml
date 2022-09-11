@@ -1,19 +1,19 @@
 style: is-light
 height: is-small
 items:
-  - title: Linked Open Data
-    subtitle: Wikidata, RDF, JSON-LD
+  - title: work in progress
+    subtitle: Requests from customers plus
     icon: fa-project-diagram
-    call_to_action_name: linking
-    call_to_action_link: /lod/
-  - title: biodiversity informatics
-    subtitle: TDWG standards development
+    call_to_action_name: WIP
+    call_to_action_link: /wip/
+  - title: unattended deployment
+    subtitle: Install operating systems
     icon: fa-bug
-    call_to_action_name: sharing
-    call_to_action_link: /standards/
-  - title: data science education
-    subtitle: Python, R, GitHub
+    call_to_action_name: OS
+    call_to_action_link: /os/
+  - title: push software
+    subtitle: Install packages remotely
     icon: fa-chalkboard-teacher
-    call_to_action_name: learning
+    call_to_action_name: Software
     call_to_action_link: /education/
 

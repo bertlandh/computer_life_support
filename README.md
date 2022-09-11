@@ -1,6 +1,6 @@
-# Steve Baskauf website 
+# Bertland Hope website 
 
-<https://baskauf.github.io/>
+<https://bertlandh.github.io/>
 
 # bulma-clean-theme
 
