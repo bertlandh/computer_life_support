@@ -1,13 +1,14 @@
 ---
 title: Work In Progress
-subtitle: Requests from customers plus
+subtitle: Requests from Customers Plus
 layout: page
 show_sidebar: false
 toc: true
 toc_title: Projects
 ---
 
-<img src="/img/Seven┬áPowerful-Reasons-You-Need-Efficient-Ticket-Management-.png" alt="WIP" width="200"><br/>
+<img src="/img/ac_bird.jpg" alt="Audubon Core parrot" width="400"><br/>
+<small>Image by <a href="https://unsplash.com/photos/gGC63oug3iY">Mikhail Vasilyev</a></small>
 
 # System and Network Administration
 
