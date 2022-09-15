@@ -1,7 +1,7 @@
 - name: About
   link: /about/
 - name: Projects
-  link: /#
+  link: #
   dropdown:
     - name: Work In Progress 
       link: /wip/
